@@ -73,11 +73,11 @@ const ProjectCard = ({
             </div>
           
             {/* Image */}
-            <div className='w-full mt-6 lg:mt-0'>
+            <div className='w-full mt-6 lg:mt-0 flex justify-center'>
             <img
               src={image}
               alt='project_image'
-              className='w-ful h-[90%] object-cover border rounded-2xl mt-4'
+              className='h-[90%] max-h-[90%] object-cover border rounded-2xl mt-4'
             />            
             </div>
         </div>

@@ -23,7 +23,7 @@ const Skills = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] mb-28'
         >
-          My technical expertise spans across a range of technologies, including TypeScript, JavaScript, and frameworks like React, Node.js, Express, and Next JS, enabling me to develop efficient, scalable, and user-friendly solutions while effectively tackling diverse challenges and delivering high quality results.
+          My technical expertise spans across a range of technologies, including JavaScript and Python, and frameworks like React, Node.js, Express, and Next JS, enabling me to develop efficient, scalable, and user-friendly solutions while effectively tackling diverse challenges and delivering high quality results.
         </motion.p>
 
         <div className='flex flex-row flex-wrap justify-center gap-10 mt-16'>

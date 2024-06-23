@@ -4,6 +4,7 @@ import {
   creator,
   web,
   javascript,
+  python,
   typescript,
   html,
   css,
@@ -72,6 +73,10 @@ const skills = [
   {
     name: "JavaScript",
     icon: javascript,
+  },
+  {
+    name: "Python",
+    icon: python,
   },
   // {
   //   name: "TypeScript",
@@ -193,9 +198,9 @@ const projects = [
   {
     name: "Data Science Summit'23",
     description:
-      "A modern website, designed with 3D models, inspired by the iPhone 15 Pro website. Enjoy seamless performance and sleek aesthetics, crafted for innovation and quality.",
+      "An engaging summit hosted by the Society for Data Science at BIT Mesra, featuring a hackathon, quizzes, data plotting challenges, and an insightful speaker session by Mr. Shikhar Goel, CTO of GFG.",
     tech:
-      "Developed with React for a dynamic interface, Node.js for efficient server-side operations, and MongoDB for scalable data       management, Zaayka is a robust platform capable of supporting extensive user interactions and transactions.",  
+      "The summit's website was developed using React for a dynamic interface, Tailwind CSS for styling, and Figma for design integration. It had over 500+ views and registrations.",  
     tags: [
       {
         name: "react",
