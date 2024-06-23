@@ -73,10 +73,10 @@ const skills = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  // {
+  //   name: "TypeScript",
+  //   icon: typescript,
+  // },
   {
     name: "React",
     icon: reactjs,
@@ -105,14 +105,14 @@ const skills = [
     name: "Git",
     icon: git,
   },
-  {
-    name: "Figma",
-    icon: figma,
-  },
-  {
-    name: "Docker",
-    icon: docker,
-  },
+  // {
+  //   name: "Figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "Docker",
+  //   icon: docker,
+  // },
 ];
 
 
